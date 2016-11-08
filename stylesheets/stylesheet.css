@@ -12,6 +12,10 @@ html {
   -ms-text-size-adjust: 100%; /* 2 */
 }
 
+.chicjpg {
+  border: 0;
+}
+
 /**
  * Remove default margin.
  */
